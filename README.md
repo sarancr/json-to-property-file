@@ -34,6 +34,5 @@ config.dc1.itunes.supportedRegions[1]=Canada
 config.dc1.itunes.supportedRegions[2]=Mexico
 config.dc2.itunes.supportedRegions[0]=Sweden
 config.dc2.itunes.supportedRegions[1]=Finland
-config.dc2.itunes.supportedRegions[2]=Denmark
-```
+config.dc2.itunes.supportedRegions[2]=Denmark```
 NOTE: Your solution needs to work for any JSON file, not just the example above.
